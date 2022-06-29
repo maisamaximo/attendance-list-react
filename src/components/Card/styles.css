@@ -1,0 +1,17 @@
+.card {
+  height: 100px;
+  width: 50%;
+  background: #735bf2;
+  color: #ffffff;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-inline: 30px;
+}
+
+.date-info {
+  display: flex;
+  flex-direction: column;
+}
