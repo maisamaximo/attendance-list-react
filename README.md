@@ -1,2 +1,2 @@
-# lista-presen-a-react
-App para adicionar nomes na lista de presença. Projeto simples aplicando conceitos de React
+# attendance-list-react
+App to add names to the attendance list. Simple project applying React concepts
