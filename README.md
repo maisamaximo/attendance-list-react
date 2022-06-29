@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img align="center" alt="License: ISC" src="(https://user-images.githubusercontent.com/16991001/176536291-6f839c7c-cc1c-4e97-96b8-2b6f0f548cde.png)" />
+<img align="center" alt="License: ISC" src="https://user-images.githubusercontent.com/16991001/176536291-6f839c7c-cc1c-4e97-96b8-2b6f0f548cde.png" />
 ![Screenshot 2022-06-29 at 21 07 54]()
 
 
